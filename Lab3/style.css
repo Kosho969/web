@@ -1,0 +1,10 @@
+#mainContainer {
+    height: 500px;
+    overflow-y: scroll;
+}
+body{
+    background-image: url("lines.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}

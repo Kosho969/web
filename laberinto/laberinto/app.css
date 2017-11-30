@@ -1,0 +1,18 @@
+td {
+    font-size: large
+}
+
+
+tr{
+
+    color: #c64b53;
+}
+
+
+.block {
+    
+    height: 10px;
+    width: 10px;
+    background-color: red;
+    font-size: large;
+}
